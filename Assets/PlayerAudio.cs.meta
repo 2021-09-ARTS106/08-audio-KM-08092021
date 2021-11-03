@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 12e0d8d8089c94b4db2062135b966755
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splashSound: {fileID: 8300000, guid: 68e64b24d907fdb47b0b36fac4227108, type: 3}
+  - audioS: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
